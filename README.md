@@ -22,3 +22,30 @@ React Native · Expo · TypeScript · Supabase · PostgreSQL · Edge Functions (
 📍 Dallas, TX (CT) — overlap with all US business hours + European mornings
 
 🗣️ Calls in Spanish · Async communication (email + Loom) in English
+
+---
+
+### Hola, soy Freddy 👋
+
+**Ingeniero móvil senior** en Dallas, TX.
+Construyo apps React Native + Supabase para founders no-técnicos — llevo ideas de cero a **publicadas en Google Play / App Store** con precio cerrado y fecha cerrada.
+
+🔭 **Lanzando ahora**
+[SportTrack](https://appcreativ.app/) — tracker de fútbol en tiempo real, 5 idiomas, en Closed Testing en Google Play con 12 testers verificados.
+
+🧰 **Stack**
+React Native · Expo · TypeScript · Supabase · PostgreSQL · Edge Functions (Deno) · Gemini · Claude API · AdMob · Play Billing · Cloudflare Pages
+
+💼 **Trabaja conmigo**
+- Web: [appcreativ.app](https://appcreativ.app)
+- Email: hire@appcreativ.app
+- Reserva una call de 15 min: [cal.com/freddymendez85/discovery](https://cal.com/freddymendez85/discovery)
+
+⚙️ **Lo que hago**
+- **MVP a Producción** — tu idea → ficha de tienda publicada en 8–10 semanas ($18k–$25k precio cerrado)
+- **Sprint de Rescate** — desbloqueo apps atascadas en review de Google / Play Billing / RLS / keystore ($5k–$7k precio cerrado)
+- **Auditoría Técnica** — revisión senior de código, arquitectura, seguridad, pipeline de release ($1.5k–$3k pack)
+
+📍 Dallas, TX (CT) — coincido con horario laboral US + mañanas europeas
+
+🗣️ Calls en español · Comunicación async (email + Loom) en inglés
