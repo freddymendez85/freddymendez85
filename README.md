@@ -16,6 +16,7 @@ React Native · Expo · TypeScript · Supabase · PostgreSQL · Edge Functions (
 
 ⚙️ **What I do**
 - **MVP to Production** — your app idea → published store listing in 8–10 weeks ($18k–$25k fixed)
+- **Starter MVP** — limited budget? Hyper-focused MVP shipped in 4–6 weeks ($8k–$12k fixed)
 - **Rescue Sprint** — unstick apps blocked on Google review / Play Billing / RLS / keystore ($5k–$7k fixed)
 - **Technical Audit** — senior review of codebase, architecture, security, release pipeline ($1.5k–$3k pack)
 
@@ -43,6 +44,7 @@ React Native · Expo · TypeScript · Supabase · PostgreSQL · Edge Functions (
 
 ⚙️ **Lo que hago**
 - **MVP a Producción** — tu idea → ficha de tienda publicada en 8–10 semanas ($18k–$25k precio cerrado)
+- **MVP Starter** — ¿presupuesto limitado? MVP hyper-focused publicado en 4–6 semanas ($8k–$12k precio cerrado)
 - **Sprint de Rescate** — desbloqueo apps atascadas en review de Google / Play Billing / RLS / keystore ($5k–$7k precio cerrado)
 - **Auditoría Técnica** — revisión senior de código, arquitectura, seguridad, pipeline de release ($1.5k–$3k pack)
 
