@@ -2,7 +2,7 @@
 
 ### Hola, soy Freddy Méndez
 
-Soy Freddy Méndez, fundador de Appcreativ, una empresa de desarrollo de software para negocios. [Appcreativ](https://appcreativ.app).
+Soy Freddy Méndez, fundador de [Appcreativ](https://appcreativ.app), una empresa de desarrollo de software para negocios.
 
 Construyo apps iOS y Android, portales web con panel de administración y automatizaciones con correo, WhatsApp e IA para founders, organizadores y negocios pequeños. Software a medida con alcance y precio cerrados antes de empezar, y avances cada semana.
 
@@ -38,7 +38,7 @@ Dallas, TX (hora central): coincido con el horario laboral de Estados Unidos y c
 
 ### Hi, I'm Freddy Méndez
 
-I am Freddy Méndez, founder of Appcreativ, a software development company for businesses. [Appcreativ](https://appcreativ.app).
+I am Freddy Méndez, founder of [Appcreativ](https://appcreativ.app), a software development company for businesses.
 
 I build iOS and Android apps, web portals with admin panels, and automations with email, WhatsApp and AI for founders, organizers and small businesses. Custom software with scope and price agreed before we start, and progress every week.
 
